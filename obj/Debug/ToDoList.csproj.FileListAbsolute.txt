@@ -44,3 +44,4 @@ C:\Users\Admin\Desktop\Milan Sułek\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.
 C:\Users\Admin\Desktop\Milan Sułek\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
 C:\Users\Admin\Desktop\Milan Sułek\ToDoList\ToDoList\obj\Debug\ToDoList.exe
 C:\Users\Admin\Desktop\Milan Sułek\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\Admin\Desktop\Milan Sułek\ToDoList\ToDoList\obj\Debug\ToDoList.listForm.resources

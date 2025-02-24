@@ -43,8 +43,14 @@ namespace ToDoList
 
                 if (result != null)
                 {
-                    labelStatus.Text = "Zalogowano!";
-                    labelStatus.ForeColor = System.Drawing.Color.Green;
+                    //labelStatus.Text = "Zalogowano!";
+                    //labelStatus.ForeColor = System.Drawing.Color.Green;
+                    listForm.id = (int) result;
+                    labelStatus.Text = "Zalogowano!" + listForm.id;
+                    listForm lf = new listForm();
+                    this.Close();
+                    lf.ShowDialog();
+
                 }
                 else
                 {
